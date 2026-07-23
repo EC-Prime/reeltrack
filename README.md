@@ -2,7 +2,7 @@
 
 A responsive product landing page for **Reeltrack**, a TV/movie backlog tracker, built as part of freeCodeCamp's Responsive Web Design certification (Product Landing Page project).
 
-**[Live Demo](https://reeltracklandingpage.netlify.app/)
+[Live Demo](https://reeltracklandingpage.netlify.app/)
 
 ![preview](rt-screenshot.png)
 
