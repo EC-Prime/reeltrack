@@ -6,6 +6,10 @@ A responsive product landing page for **Reeltrack**, a TV/movie backlog tracker,
 
 ![preview](rt-screenshot.png)
 
+<p align="center">
+  <img src="mobile-screenshot.png" alt="Logo">
+</p>
+
 ## Overview
 
 Reeltrack's landing page introduces the product — one place to track everything you're watching, want to watch, and haven't finished yet — with a fixed nav bar, hero section, feature highlights, a "how it works" walkthrough, a demo video embed, pricing tiers, and an email signup form.
