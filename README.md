@@ -5,7 +5,7 @@ A responsive product landing page for **Reeltrack**, a TV/movie backlog tracker,
 [Live Demo](https://reeltracklandingpage.netlify.app/)
 
 <p align="center">
-  <img src="mobile-screenshot.png" alt="landing page screenshot image">
+  
 </p>
 
 ## Overview
